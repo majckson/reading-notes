@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 Code 102
 
 ## What is *growth* mindset?
