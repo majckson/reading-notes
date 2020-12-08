@@ -14,4 +14,4 @@ Things I can do to keep in the growth mindset
 > The most certain way to succeed is always to try one more time.  -Thomas Edison      
 
 For more information on Growth Midset check out [ATLASSIAN](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-## [Morgan Jackson](https://github.com/majckson)
+## [Morgan Jackson](majckson.github.io/reading-notes/)
