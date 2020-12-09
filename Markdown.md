@@ -77,3 +77,5 @@ First Header | Second Header | Third Header
 ------ | ------ | ------
 Content from cell 1 | Cell 2 | Cell 3
 Content in first column | second column | third column
+
+> Carly Dekock
