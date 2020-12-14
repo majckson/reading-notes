@@ -16,7 +16,21 @@ Markdown, according to wikipedia it is is a lightweight markup language with pla
 But what exactly does that *mean*? For me, that means markdown is but a step down from a **GUI** What is a GUI? Man! Great question!
 
 ## Definitons 
-###
+    
+<ul>
+        <li>Professional Competencies</li>
+        <li>Proficiencies</li>
+        <li>Canvas</li>
+        <li>Github</li>
+        <li>Slack</li>
+        li>Growth mindset</li>
+        <li>Fixed mindset</li>
+        <li>Repository</li>
+        <li>Markdown</li>
+        <li>Web publishing</li>
+        <li>Path learning</li>
+        <li>Sandbox learning</li>
+</ul>    
 
 
 ### Reading Notes
