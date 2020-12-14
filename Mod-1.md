@@ -23,7 +23,7 @@ But what exactly does that *mean*? For me, that means markdown is but a step dow
         <li>Canvas</li>
         <li>Github</li>
         <li>Slack</li>
-        li>Growth mindset</li>
+        <li>Growth mindset</li>
         <li>Fixed mindset</li>
         <li>Repository</li>
         <li>Markdown</li>
