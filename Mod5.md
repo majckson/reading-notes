@@ -3,11 +3,16 @@
 ## Definitions
 <dl>
     <dt>CSS</dt>
-    <dd>Stands for Cascading Style Sheets, it's what styles web content</dd>
+
+        <dd>Stands for Cascading Style Sheets, it's what styles web content</dd>
+    
     <dt>RGB</dt>
-    <dd>Stands for Red, Green, and Blue. It's used in CSS by add certain ammouts of the 3 colors to make a new color.</dd>
+    
+        <dd>Stands for Red, Green, and Blue. It's used in CSS by add certain ammouts of the 3 colors to make a new color.</dd>
+    
     <dt>HSL</dt>
-    <dd>Stands for Hue, Saturation, and Lightness. It's a different way to specify colors with indvidual values</dd>
+       
+        <dd>Stands for Hue, Saturation, and Lightness. It's a different way to specify colors with indvidual values</dd>
     <dt>Hex codes</dt>
     <dd>Represent RGB in hexadecimal code.</dd>
     <dt>Layout</dt>
