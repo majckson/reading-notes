@@ -20,8 +20,6 @@
     <dd>in refference to Border, Margin, & Padding?</dd>
     <dt>Curly braces</dt>
     <dd>contain the decloration</dd>
-
-
 </dl>
 
 [<===Back](README.md)
