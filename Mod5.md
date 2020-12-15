@@ -13,18 +13,31 @@
     <dt>HSL</dt>
        
         <dd>Stands for Hue, Saturation, and Lightness. It's a different way to specify colors with indvidual values</dd>
+    
     <dt>Hex codes</dt>
-    <dd>Represent RGB in hexadecimal code.</dd>
+    
+        <dd>Represent RGB in hexadecimal code.</dd>
+   
     <dt>Layout</dt>
-    <dd>in relation to CSS layout controls where elements are on a page.</dd>
+    
+        <dd>in relation to CSS layout controls where elements are on a page.</dd>
+    
     <dt>Rule</dt>
-    <dd>When apply rules to elements either the last rule will override the rules before. And a more specific rule will over ride a generic one.</dd>
+    
+        <dd>When apply rules to elements either the last rule will override the rules before. And a more specific rule will over ride a generic one.</dd>
+    
     <dt>Selector</dt>
-    <dd>when applying CSS to an HTML document you can apply rules by using a selector examples might be using a paragraph tag, or a header tag</dd>
+    
+        <dd>when applying CSS to an HTML document you can apply rules by using a selector examples might be using a paragraph tag, or a header tag</dd>
+    
     <dt>Property & value</dt>
-    <dd>in refference to Border, Margin, & Padding?</dd>
+    
+        <dd>in refference to Border, Margin, & Padding?</dd>
+    
     <dt>Curly braces</dt>
-    <dd>contain the decloration</dd>
+    
+        <dd>contain the decloration</dd>
+        
 </dl>
 
 [<===Back](README.md)
