@@ -5,3 +5,6 @@
 1. [**Mod-4**](Mod4.md)
 1. [**Mod-5**](Mod5.md)
 1. [**Mod-6**](Mod6.md)
+1. [**Mod-7**](Mod7.md)
+1. [**class-01**](class-01.md)
+
