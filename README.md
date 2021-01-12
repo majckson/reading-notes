@@ -7,4 +7,5 @@
 1. [**Mod-6**](Mod6.md)
 1. [**Mod-7**](Mod7.md)
 1. [**class-01**](class-01.md)
+1. [**class-02**](class-02.md)
 
