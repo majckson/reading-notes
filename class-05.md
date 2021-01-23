@@ -4,6 +4,8 @@
 
 ### Chapter 5: “Images” 
 
+[Jon Deckett](http://htmlandcssbook.com/code-samples/chapter-05/)
+
 * The `<img>` element is used to add images to a web page
 * You must always specify an src attribute to indicate the source of an image and an alt attribute to describe the content of an image
 * You should save images at the size you will be using them on the web page and in the appropriate format.
@@ -24,3 +26,4 @@
 * You can control the space between lines of text, individual letters, and words, Text can also be aligned to the left, right, center, of justified. It can also be indented,
 * You can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.
 
+Refferences - 
