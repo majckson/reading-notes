@@ -1,6 +1,21 @@
 # Intro 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## HTML = structure
 - Elements contain opening and closing tags
 - Tags act like containers (like a lable)
