@@ -12,3 +12,5 @@
 1. [**class-04**](class-04.md)
 1. [**class-05**](class-05.md)
 1. [**class-06**](class-06.md)
+1. [**class-07**](class-07.md)
+1. [**class-08**](class-08.md)
